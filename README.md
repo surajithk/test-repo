@@ -1,3 +1,7 @@
 # test-repo
-change fro first commit to main
+change for first commit to main
+->develop creted
+->feature1 created
+change in feature 1
 change made in feature2
+2nd change in feature 1
